@@ -15,6 +15,6 @@ public class TestController {
     // http://127.0.0.1:8001/test
     @RequestMapping("/test")
     public String test() {
-        return "hello v1";
+        return "hello v1v1";
     }
 }
